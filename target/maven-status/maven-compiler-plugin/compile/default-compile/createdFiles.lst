@@ -1,0 +1,5 @@
+com\loya\controller\RiskRecordController.class
+com\loya\repository\RiskRecordRepository.class
+com\loya\model\RiskRecord.class
+com\loya\Application.class
+com\loya\service\RiskRecordService.class
